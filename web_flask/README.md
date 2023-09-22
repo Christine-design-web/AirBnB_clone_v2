@@ -1,0 +1,1 @@
+Hello webstatic and flask
